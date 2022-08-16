@@ -1,0 +1,5 @@
+aiogram
+psutil
+speedtest-cli
+mysql-connector-python
+telethon
